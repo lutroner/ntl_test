@@ -15,7 +15,6 @@ PAYLOAD = {
     "mobile": False,
     "device_info": {}
 }
-# TOKEN = os.environ.get("TOKEN")
 USERNAME = os.environ.get("FF_USER")
 PASSWORD = os.environ.get("PASSWORD")
 OBJECTS_PER_PAGE = 100
